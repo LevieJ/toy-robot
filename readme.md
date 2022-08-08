@@ -6,9 +6,9 @@ The following should be installed:
 
 ## Run Application
 - Open terminal in project directory
-- Clean and build the project using maven
+- Clean and build the project using maven,
    command: mvn clean install
-- Run generated Jar file
+- Run generated Jar file,
    command: java -jar target\toy-robot-0.0.1-SNAPSHOT.jar
 
 ## Import and Run project in Eclipse
